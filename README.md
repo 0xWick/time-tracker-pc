@@ -12,7 +12,9 @@ Make sure you have Python installed.
 
 1. Create a virtual environment (optional but recommended):
 
-```python -m venv myEnv```
+```
+python -m venv myEnv
+```
 
 
 2. Activate the virtual environment:
@@ -37,7 +39,9 @@ Make sure you have Python installed.
 
 3. Run the script using Python:
 
-```python time_tracker.py```
+```
+python time_tracker.py
+```
 
 
 4. The script will start tracking the time spent on each application you use. It will update in real-time as you switch between applications.
