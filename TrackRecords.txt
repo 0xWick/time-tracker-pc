@@ -1,0 +1,13 @@
+2023-09-21 18:28:05 - Time spent on PowerShell: 7.00 seconds
+2023-09-21 18:28:06 - Time spent on Task Switching: 1.00 seconds
+2023-09-21 18:28:07 - Time spent on Track App Usage Time - Google Chrome: 1.00 seconds
+2023-09-21 18:28:08 - Time spent on Task Switching: 1.00 seconds
+2023-09-21 18:28:13 - Time spent on TrackRecords.txt - timeTracker - Visual Studio Code: 5.00 seconds
+2023-09-21 18:28:16 - Time spent on Task Switching: 3.00 seconds
+2023-09-21 18:28:56 - Time spent on Upload files · 0xWick/time-tracker-pc - Google Chrome: 40.02 seconds
+2023-09-21 18:29:06 - Time spent on Open: 10.01 seconds
+2023-09-21 18:29:07 - Time spent on Task Switching: 1.00 seconds
+2023-09-21 18:29:18 - Time spent on TrackRecords.txt - timeTracker - Visual Studio Code: 11.00 seconds
+2023-09-21 18:29:22 - Time spent on : 4.00 seconds
+2023-09-21 18:29:27 - Time spent on Upload files · 0xWick/time-tracker-pc - Google Chrome: 5.00 seconds
+2023-09-21 18:29:28 - Time spent on Task Switching: 1.00 seconds
